@@ -551,7 +551,7 @@ Navbar CSS
   z-index: 9999;
   top: 0;
   left: 0;
-  background-color: transparent;
+  background-color: azure;
   -webkit-transition: .3s;
   transition: .3s;
   padding-top: 15px;
@@ -585,10 +585,12 @@ Navbar CSS
 
 .startp-nav {
   background: transparent;
+  
 }
 
 .startp-nav nav {
   padding: 0;
+
 }
 
 .startp-nav nav ul {
